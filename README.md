@@ -1,6 +1,6 @@
 # Married with Children
 
-Social Platform for Families
+Social Platform for Families.
 
 ## Built with
 
@@ -22,4 +22,4 @@ attended between January and March 2020 in Berlin, Germany.
 
  ## Preview
 
-![Project Image](https://github.com/Chris-Z-85/connect-four/blob/master/married_with_children/marriedwithchildren.gif?raw=true)
+![Project Image](https://github.com/Chris-Z-85/Social-Network/blob/master/marriedwithchildren.gif?raw=true)
