@@ -6,8 +6,7 @@ Social Platform for Families.
 
  * React/Redux
  * Socket.io
- * Node.js
- * Express.js
+ * Node.js with Express
  * Postgre SQL
  * AWS S3 & SES
  * HTML 5 & CSS3
@@ -19,6 +18,14 @@ Social network is a single-page application made with React on which users can s
 
 This project was created during the Full Stack Web Development course at <a href="http://www.spiced-academy.com/">SPICED Academy</a>, which I 
 attended between January and March 2020 in Berlin, Germany. 
+
+## Features
+
+ * Registration / Log in
+ * Changing a profile default picture and adding a bio
+ * Searching for other users (incremental search)
+ * Different actions possible on other user profile: sending/cancelling a friend request, unfriending or accepting/rejecting requests
+ * Chat for users with messages displayed real time 
 
  ## Preview
 
