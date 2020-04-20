@@ -24,8 +24,8 @@ attended between January and March 2020 in Berlin, Germany.
  * Registration / Log in / Password rest (Amazon SES)
  * Changing default profile picture and adding a bio
  * Searching for other users (incremental search)
- * Different actions possible on other user profile: sending/cancelling a friend request, unfriending or accepting/rejecting requests
- * Chat for platform users with messages displayed real time 
+ * Actions possible on other user profile: sending/cancelling a friend request, unfriending or accepting/rejecting requests
+ * Chat for platform users with messages displayed in real time 
 
  ## Preview
 
