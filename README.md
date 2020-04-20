@@ -21,7 +21,7 @@ attended between January and March 2020 in Berlin, Germany.
 
 ## Features
 
- * Registration / Log in / Password rest (Amazon SES)
+ * Registration / Log in / Password reset (Amazon SES)
  * Changing default profile picture and adding a bio
  * Searching for other users (incremental search)
  * Actions possible on other user profile: sending/cancelling a friend request, unfriending or accepting/rejecting requests
