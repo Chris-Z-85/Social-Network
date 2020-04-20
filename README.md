@@ -21,11 +21,11 @@ attended between January and March 2020 in Berlin, Germany.
 
 ## Features
 
- * Registration / Log in
- * Changing a profile default picture and adding a bio
+ * Registration / Log in / Password rest (Amazon SES)
+ * Changing default profile picture and adding a bio
  * Searching for other users (incremental search)
  * Different actions possible on other user profile: sending/cancelling a friend request, unfriending or accepting/rejecting requests
- * Chat for users with messages displayed real time 
+ * Chat for platform users with messages displayed real time 
 
  ## Preview
 
